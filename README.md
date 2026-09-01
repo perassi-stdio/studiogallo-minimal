@@ -1,0 +1,1 @@
+# studiogallo-minimal
